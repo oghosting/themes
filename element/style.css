@@ -30,10 +30,6 @@ body {
 	font-family: Arial, sans-serif;
 	font-size: 14px;
 	color: #33333;
-}
-
-/* Dark Style OVER-RIDE */
-body {
 	background-color: #0D0D0D;
 	color: #666;
 }
@@ -122,7 +118,6 @@ article.post-gallery {
 }
 
 article.post-gallery gallery img {
-	margin: 2px;
 	border: none !important;
 	padding: 5px;
 }
